@@ -30,7 +30,7 @@
     "express": "^4.17.1",
     "firebase": "^7.14.1",
     "html-react-parser": "^0.10.5",
-    "next": "^9.4.0",
+    "next": "^9.5.1",
     "next-images": "^1.4.0",
     "next-routes": "^1.4.2",
     "next-seo": "^2.0.0",
@@ -49,7 +49,7 @@
     "react-owl-carousel3": "^2.2.5",
     "react-preloading-screen": "^1.0.2",
     "react-visibility-sensor": "^5.0.2",
-    "react-ga":"^2.7.0",
+    "react-ga": "^2.7.0",
     "sass": "^1.26.3",
     "swr": "^0.2.0",
     "wowjs": "^1.1.3"
