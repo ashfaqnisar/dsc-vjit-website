@@ -6730,10 +6730,10 @@ react-mailchimp-subscribe@^2.1.0:
     prop-types "^15.5.10"
     to-querystring "^1.0.4"
 
-react-modal-video@^1.2.5:
-  version "1.2.5"
-  resolved "https://registry.yarnpkg.com/react-modal-video/-/react-modal-video-1.2.5.tgz#5f00d732e0808050715dd0e33a8b618375f6ed14"
-  integrity sha512-wUqbQd4lWBe/g+eANgMY8070BrUZJU/VfHjMYoBJGJRp1g3fPfsr5d7gbeiCKvtn171jJyr8tRlKcBQ3GHdglA==
+react-modal-video@^1.2.6:
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/react-modal-video/-/react-modal-video-1.2.6.tgz#4137c7ac83875547f1aef0ee7d39a4ab9c30a338"
+  integrity sha512-rCo+jcohvZQ+IDyd3+uwa14DuTaeMlxL9Ng4tqSl9//4Rgc0PCLQHcTdeMfHipjuzvjk6/e7OqqNRG8dMAjUYw==
   dependencies:
     react-transition-group "^2.2.1"
 
